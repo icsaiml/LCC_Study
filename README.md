@@ -30,17 +30,17 @@ Interest rate - As interest rate increases defaulters are moe
 Term - There are more defaulters with 60 months term than 36 months
 Annual income - If the annual income is more then high possibility that he pays the loan
 
-#Stop High Risk Loans
+Stop High Risk Loans
 grade F
 int_rate > 20%
 
-#Reduce Medium Risk Loans
+Reduce Medium Risk Loans
 grade > 'C'
 int_rate > 12.5%
 annual_inc < 15000
 term = 60 months
 
-#Increase Low Risk Loans
+Increase Low Risk Loans
 grade 'A'
 int_rate 7.5-10%
 term = 36 months
