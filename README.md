@@ -19,9 +19,14 @@
 * If once they validated the details, they will share how much amount got approved by investors(funded_amnt_inv) and their rate of interest(int_rate) and (grade) and (sub_grade) will get decided
 
 * Borrower will choose the term period (term - 36 months / 60 months) to repay the amount along with the interest
-- > Find the driving factors which lead to the defaulted loans which are major source of loss for the company.
+## Project Objective
+-  Find the driving factors which lead to the defaulted loans which are major source of loss for the company.
+## Dataset
 - The data set is a csv(loan.csv) file with the loan data for the Lending Club.
-
+## Methodology
+1. Data understanding
+2. Data cleaning (cleaning missing values, removing redundant columns etc.)
+3. Data Analysis
 ## Conclusions
 
 Grade, SubGrade - As grade changes there are defaulters changing, G being the highest
