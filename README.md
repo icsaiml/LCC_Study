@@ -29,11 +29,11 @@
 3. Data Analysis
 ## Conclusions
 
-Grade, SubGrade - As grade changes there are defaulters changing, G being the highest
-Purpose of the loan - Small business has more defaulters
-Interest rate - As interest rate increases defaulters are moe 
-Term - There are more defaulters with 60 months term than 36 months
-Annual income - If the annual income is more then high possibility that he pays the loan
+Grade, SubGrade - As grade changes there are defaulters changing, G being the highest\
+Purpose of the loan - Small business has more defaulters\
+Interest rate - As interest rate increases defaulters are more \
+Term - There are more defaulters with 60 months term than 36 months\
+Annual income - If the annual income is more then high possibility that he pays the loan\
 
 ### Stop High Risk Loans\
 grade F\
