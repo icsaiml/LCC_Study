@@ -53,11 +53,11 @@ lower dti
 
 
 ## Technologies Used
-Numpy 1.23.5
-Pandas 1.5.3
-Seaborn 0.12.2
-matplotlib 3.7.0
-MS Powerpoint 2019
+> Numpy 1.23.5
+> Pandas 1.5.3
+> Seaborn 0.12.2
+> matplotlib 3.7.0
+> MS Powerpoint 2019
 
 ## Acknowledgements
 This project was inspired by UpGrad IITB Programme as a case study for the Artificial Intelligence and Machine course.
