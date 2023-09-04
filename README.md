@@ -51,13 +51,10 @@ int_rate 7.5-10%\
 term = 36 months\
 lesser loan amount\
 lower dti\
-
-
-
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
-## Technologies Used\
+### Technologies Used\
 Numpy 1.23.5\
 Pandas 1.5.3\
 Seaborn 0.12.2\
