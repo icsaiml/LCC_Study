@@ -62,7 +62,7 @@ matplotlib 3.7.0\
 MS Powerpoint 2019
 
 ## Acknowledgements
-This project was inspired by UpGrad IITB Programme as a case study for the Artificial Intelligence and Machine course.
+This project was inspired by UpGrad IITB Programme as a case study for the Artificial Intelligence and Machine course.\
 Contributors : Sudha Velpuri and Moka Naren Raju
 ## Contact
 Created by [@icsaiml] - feel free to contact me!
